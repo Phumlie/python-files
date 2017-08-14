@@ -7,4 +7,5 @@ if not os.path.exists(directory):
 
 fileName = "random.gm"
 file = open(path+fileName,"w+")
+
 file.close()
